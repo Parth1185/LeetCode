@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Parth1185/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Parth1185/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Parth1185/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Parth1185/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Parth1185/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Parth1185/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Parth1185/LeetCode/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Parth1185/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Parth1185/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Parth1185/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Parth1185/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Parth1185/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Parth1185/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
