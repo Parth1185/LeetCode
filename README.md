@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Parth1185/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Parth1185/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Parth1185/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Parth1185/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Parth1185/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Parth1185/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Parth1185/LeetCode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Parth1185/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Parth1185/LeetCode/tree/master/1894-merge-strings-alternately) |
