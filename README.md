@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Parth1185/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parth1185/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Parth1185/LeetCode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Parth1185/LeetCode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Parth1185/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Parth1185/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parth1185/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Parth1185/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Parth1185/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Parth1185/LeetCode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Parth1185/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Parth1185/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Parth1185/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
