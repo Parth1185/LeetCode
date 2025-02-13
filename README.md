@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parth1185/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Parth1185/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Parth1185/LeetCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Parth1185/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Parth1185/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Parth1185/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parth1185/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Parth1185/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Parth1185/LeetCode/tree/master/0169-majority-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parth1185/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
@@ -108,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Parth1185/LeetCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Parth1185/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
