@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Parth1185/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Parth1185/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Parth1185/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/Parth1185/LeetCode/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/Parth1185/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Parth1185/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Parth1185/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -126,8 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parth1185/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Parth1185/LeetCode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Parth1185/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Parth1185/LeetCode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Parth1185/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
