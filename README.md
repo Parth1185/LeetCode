@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Parth1185/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Parth1185/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Parth1185/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/Parth1185/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Parth1185/LeetCode/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/Parth1185/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Parth1185/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Parth1185/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Parth1185/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Parth1185/LeetCode/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/Parth1185/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Parth1185/LeetCode/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/Parth1185/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -144,5 +146,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Parth1185/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Parth1185/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
